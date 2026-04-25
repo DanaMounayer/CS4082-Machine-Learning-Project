@@ -20,7 +20,7 @@ We trained and compared eight classifiers under both standard conditions and del
 ```
 CS4082-Machine-Learning-Project/
 │
-├── data/
+├── datasets/
 │   ├── raw/                          # Original dataset files (CSV / Excel)
 │   │   ├── Maternal_Health_Risk.csv
 │   │   ├── preeclampsia.csv
