@@ -18,7 +18,7 @@ We trained and compared eight classifiers under both standard conditions and del
 ## Repository Structure
 
 ```
-preeclampsia-ml/
+CS4082-Machine-Learning-Project/
 │
 ├── data/
 │   ├── raw/                          # Original dataset files (CSV / Excel)
@@ -65,8 +65,8 @@ Download the datasets from Kaggle and place them in the `data/raw/` folder befor
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/preeclampsia-ml.git
-cd preeclampsia-ml
+git clone https://github.com/DanaMounayer/CS4082-Machine-Learning-Project
+cd CS4082-Machine-Learning-Project
 ```
 
 ### 2. Create a virtual environment (recommended)
